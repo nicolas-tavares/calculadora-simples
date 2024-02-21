@@ -1,2 +1,2 @@
-# simple-calculator
-"Simple Calculator" with HTML, CSS and JavaScript.
+# caculadora-simples
+"Calculadora" programada com HTML, CSS e JavaScript.
